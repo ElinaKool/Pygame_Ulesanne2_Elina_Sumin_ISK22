@@ -39,3 +39,4 @@ while running:
 
 
 #Elina_Sumin_ISK22
+VIKK
